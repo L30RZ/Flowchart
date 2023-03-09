@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T04:34:29.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JSwRs1pMwcgOXcjUqhQv" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T04:35:15.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="356YSIQYREM0R7FWW8FR" version="21.0.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1804" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
             <mxPoint x="-750" y="468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kYcXn-ktY3dIuvGyuri_-75" value="1. kode blok&lt;br&gt;2. jjg kirim&lt;br&gt;3. nett weight&lt;br&gt;4. jjg grading&lt;br&gt;5. tonase grading&lt;br&gt;6. jjg final&lt;br&gt;7. final weight" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;rounded=1;arcSize=12;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="kYcXn-ktY3dIuvGyuri_-75" value="1. kode blok&lt;br&gt;2. jjg kirim&lt;br&gt;3. nett weight&lt;br&gt;4. jjg grading&lt;br&gt;5. tonase grading&lt;br&gt;6. jjg final&lt;br&gt;7. final weight&lt;br&gt;8. bjr" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;rounded=1;arcSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-832" y="301" width="186.34" height="119" as="geometry" />
         </mxCell>
         <mxCell id="kYcXn-ktY3dIuvGyuri_-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kYcXn-ktY3dIuvGyuri_-70" target="kYcXn-ktY3dIuvGyuri_-72" edge="1">
