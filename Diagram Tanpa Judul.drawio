@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T07:42:29.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pq41zpNGXeQFOhQPDY-K" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T07:44:58.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DdpYpjkA1rvPVPwzKBc3" version="21.0.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2213" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="KAdbTpuAXiZ5J--aFxtB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAdbTpuAXiZ5J--aFxtB-1" target="kYcXn-ktY3dIuvGyuri_-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAdbTpuAXiZ5J--aFxtB-1" value="&lt;b&gt;1. adjust bjr&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. jjg panen&lt;br&gt;3. jjg afkir&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4. rotasi panen&lt;/b&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+        <mxCell id="KAdbTpuAXiZ5J--aFxtB-1" value="&lt;span&gt;1. adjust bjr&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. jjg panen&lt;br&gt;3. jjg afkir&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4. rotasi panen&lt;/span&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-789.17" y="480" width="148.34" height="99" as="geometry" />
         </mxCell>
         <mxCell id="KAdbTpuAXiZ5J--aFxtB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAdbTpuAXiZ5J--aFxtB-9" target="KAdbTpuAXiZ5J--aFxtB-10">
